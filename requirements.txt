@@ -1,0 +1,2 @@
+# Seule dépendance : extraction du texte des PDF. Tout le reste est la bibliothèque standard.
+pypdf==5.1.0
