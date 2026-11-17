@@ -97,4 +97,4 @@ tableau du calcul, contrôles appliqués. Le détail est dans `REPORT.pdf`.
 
 Lien vers la démo (2 minutes maximum) : À AJOUTER
 
-Les détails (choix, mesures, limites) sont dans `REPORT.pdf`.
+Captures d'écran de la page d'audit : [contradictions](docs/scshot1.png), [politiques et contrôles](docs/scshot2.png), [réponses](docs/scshot3.png).
